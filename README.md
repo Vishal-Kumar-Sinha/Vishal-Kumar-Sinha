@@ -1,5 +1,5 @@
-<img style="width: 100%" src="img/name.gif">
-<img style="width: 100%" src="https://user-images.githubusercontent.com/62868878/221974599-b54c2f2e-d20d-46cf-a7f9-80989baa9775.gif">
+<h1 align="center"><img style="width: 100%" src="img/name.gif"></h1>
+<h3 align="center"><img style="width: 100%" src="https://user-images.githubusercontent.com/62868878/221974599-b54c2f2e-d20d-46cf-a7f9-80989baa9775.gif"></h3>
 
 # I'm Vishal <img src="https://user-images.githubusercontent.com/62868878/222233583-8e691e5f-c334-4d2d-aaa8-a5bdd189e574.gif" width="35px">
 
