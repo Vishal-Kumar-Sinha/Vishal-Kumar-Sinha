@@ -95,7 +95,7 @@
 <br/>
 
 ## 📃 Top Languages
-[![Top Languages of Vishal](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kumar-sinha&layout=compact&langs_count=25)](https://github.com/Priyadarshan2000/github-readme-stats)
+[![Top Languages of Vishal](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kumar-sinha&layout=compact&langs_count=25)](https://github.com/vishal-kumar-sinha/github-readme-stats)
 
 ## ⭐ GitHub Stats
  <img src="https://github-readme-stats.vercel.app/api?username=vishal-kumar-sinha&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -118,9 +118,3 @@
      <!--hvvm-->
   </tr>
 </table>
-   
-
-   <!-- <p align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:vishal-kumar-sinha"></a>
-  
-</p> -->
