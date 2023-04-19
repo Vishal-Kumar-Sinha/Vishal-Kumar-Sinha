@@ -99,8 +99,7 @@
 
 
 ## ⭐ GitHub Stats
- <img src="https://github-readme-stats.vercel.app/api?username=vishal-kumar-sinha&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-kumar-sinha&theme=monokai&show_icons=true&locale=en" alt="vishal-kumar-sinha" /></p>
 
 ## 🏆 Github Profile Trophy
  
@@ -111,6 +110,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kumar-sinha&theme=ayu-mirage" alt="vishal-kumar-sinha" /></p>
+
 
 ##  📈 Contribution Graph 
  <table>
