@@ -95,10 +95,10 @@
 <br/>
 
 ## 📃 Top Languages
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-kumar-sinha&show_icons=true&locale=en&layout=compact" alt="vishal-kumar-sinha" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-kumar-sinha&theme=ayu-mirage&show_icons=true&locale=en&layout=compact" alt="vishal-kumar-sinha" /></p>
 
 ## ⭐ GitHub Stats
- <img src="https://github-readme-stats.vercel.app/api?username=vishal-kumar-sinha&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=vishal-kumar-sinha&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
 
 
 ## 🏆 Github Profile Trophy
@@ -107,7 +107,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vishal-kumar-sinha&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
 ## 💯 Github Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal-kumar-sinha&theme=ayu-mirage)](https://github.com/vishal-kumar-sinha/github-readme-streak-stats)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kumar-sinha&theme=ayu-mirage" alt="vishal-kumar-sinha" /></p>
 
 ##  📈 Contribution Graph 
  <table>
