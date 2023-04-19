@@ -95,7 +95,7 @@
 <br/>
 <br/>
 
-## Top Languages
+## 📃 Top Languages
 [![Top Languages of Vishal](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kumar-sinha&layout=compact&langs_count=25)](https://github.com/Priyadarshan2000/github-readme-stats)
 
 ## ⭐ GitHub Stats
@@ -121,7 +121,7 @@
 </table>
    
 
-   <p align="center">
+   <!-- <p align="center">
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:vishal-kumar-sinha"></a>
   
-</p>
+</p> -->
