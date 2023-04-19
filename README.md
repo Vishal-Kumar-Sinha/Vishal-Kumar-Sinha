@@ -43,9 +43,9 @@
 <a href="https://www.instagram.com/VISHALSINHA2112/">
   <img align="left" alt=" Instagram" width="22px" src="https://user-images.githubusercontent.com/62868878/222075461-70e8656e-433f-4932-bd0e-372520779b1d.png" />
 </a>
-<br></br>
+<br/><br/>
 
-## 💻 Languages and Tools:
+# 💻 Languages and Tools:
 <table width="100%">  
 <tr align="center">  
 <td width="545"><strong>LANGUAGES</strong></td>  
@@ -95,30 +95,23 @@
 <br/>
 <br/>
 
-## 📃 Top Languages
+# 📃 Top Languages
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-kumar-sinha&theme=ayu-mirage&show_icons=true&locale=en" alt="vishal-kumar-sinha" /></p>
 
 
-## ⭐ GitHub Stats
+# ⭐ GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-kumar-sinha&theme=monokai&show_icons=true&locale=en" alt="vishal-kumar-sinha" /></p>
 
-## 🏆 Github Profile Trophy
- 
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=vishal-kumar-sinha&theme=monokai&row=1&no-frame=true&no-bg=true/">
+# 🏆 Github Profile Trophy
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal-kumar-sinha&theme=monokai" alt="vishal-kumar-sinha" /></a> </p>
+  <!--<br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vishal-kumar-sinha&theme=monokai&row=1&no-frame=true&no-bg=true/"> -->
 
-## 💯 Github Streak Stats
+# 💯 Github Streak Stats
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kumar-sinha&theme=ayu-mirage" alt="vishal-kumar-sinha" /></p>
 
 
-##  📈 Contribution Graph 
- <table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishal-kumar-sinha&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-   </tr> 
-   <tr>
-     <!--hvvm-->
-  </tr>
-</table>
+#  📈 Contribution Graph 
+ 
