@@ -75,6 +75,7 @@
 <td width="50%"><strong>BACKEND</strong></td>  
 <td width="50%">
 	<img alt="Node.js" width="36px" src="https://user-images.githubusercontent.com/62868878/222077981-2d22be91-3ba4-42f1-9136-d9c02de5fc64.png" />
+	<img width="36" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/36/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-duo-tal-revivo.png" alt="django"/>
 	<img width="36px" src="https://img.icons8.com/nolan/64/mysql.png"/>
     <img width="36px"  src="https://user-images.githubusercontent.com/107487604/233015771-8e159e47-fb8b-42c3-8607-f99ba339d3b2.png"/>
 </td>  
