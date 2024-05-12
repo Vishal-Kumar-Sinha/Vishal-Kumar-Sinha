@@ -93,7 +93,8 @@
 	<img width="36px" src="https://user-images.githubusercontent.com/107487604/233016534-b9dc8904-f311-4c18-9ded-1193281a912a.png"/>
 	<img width="36px" src="https://user-images.githubusercontent.com/107487604/233016271-18972771-3ab6-45da-bc5d-09fd22e7d43e.png"/>
 	<img width="36px" src="https://img.icons8.com/fluent/96/fa314a/adobe-photoshop.png"/>
-	<img width="36px" src="https://img.icons8.com/cute-clipart/64/000000/canva.png"/>"
+	<img width="36px" src="https://img.icons8.com/cute-clipart/64/000000/canva.png"/>
+	<img width="36" src="https://img.icons8.com/fluency/36/jupyter.png" alt="jupyter"/>
 </td>  
 </tr> 
 </table>
