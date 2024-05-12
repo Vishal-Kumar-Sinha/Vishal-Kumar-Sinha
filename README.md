@@ -65,7 +65,7 @@
 	 <img alt="HTML5" width="36px" src="https://user-images.githubusercontent.com/62868878/222076572-d851b108-17a5-4ab3-95d8-75cf1fbdaf78.png" />
 	<img alt="CSS3" width="36px" src="https://user-images.githubusercontent.com/62868878/222076427-7c7428c8-0354-4bcc-b2f4-5d5910d8eea3.png" />
 	 <img alt="JavaScript" width="36px" src="https://user-images.githubusercontent.com/62868878/222075815-eda2bc2e-5053-4763-a521-49bbff122649.png" />
-	<img alt="Bootstrap width="26px" src="https://img.icons8.com/color/96/000000/bootstrap.png"/>
+	<img alt="Bootstrap width="36px" src="https://img.icons8.com/color/36/bootstrap--v1.png"/>
 </td>  
 </tr>  
 <tr align="center">  
