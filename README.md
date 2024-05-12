@@ -52,7 +52,7 @@
 <td width="466">
 	<img width="36px" src="https://img.icons8.com/color/96/000000/c-programming.png"/>
 	<img width="36px"src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
-    <img width="36px"  src="https://img.icons8.com/color/128/000000/java-coffee-cup-logo.png"/>
+    	<img width="36px"  src="https://img.icons8.com/color/128/000000/java-coffee-cup-logo.png"/>
 	<img alt="JavaScript" width="36px" src="https://user-images.githubusercontent.com/62868878/222075815-eda2bc2e-5053-4763-a521-49bbff122649.png" />
 	<img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
 
@@ -67,6 +67,8 @@
 	 <img alt="JavaScript" width="36px" src="https://user-images.githubusercontent.com/62868878/222075815-eda2bc2e-5053-4763-a521-49bbff122649.png" />
 	<img alt="Bootstrap" width="36px" src="https://img.icons8.com/color/36/bootstrap--v1.png"/>
 	<img alt="tailwind" width="36px" src="https://img.icons8.com/color/36/tailwind_css.png"/>
+	<img width="36px" src="https://img.icons8.com/nolan/36/nextjs.png" alt="nextjs"/>
+	<img width="36px" src="https://img.icons8.com/officel/16/react.png" alt="react"/>
 </td>  
 </tr>  
 <tr align="center">  
