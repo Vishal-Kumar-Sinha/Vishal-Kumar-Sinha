@@ -3,14 +3,14 @@
 
 # I'm Vishal <img src="https://user-images.githubusercontent.com/62868878/222233583-8e691e5f-c334-4d2d-aaa8-a5bdd189e574.gif" width="35px">
 
-## 🚀 I'm a passionate Developer and Student!
+## 🚀 I'm a passionate Software Developer!
 <table width="100%">
 <tr>
 <td>
 <ul>
 <strong>
 <li>👯 Interested in AI, ML.</li>
-<li>🎓 Studying Computer Science & Engineering.</li>
+<li>🎓 Studied Computer Science & Engineering.</li>
 <li>🤔 Exploring latest technologies and developing useful apps</li>
 <li>💬 Ask me something interesting</li>
 <li> 😂 Fun fact: Coding is My Crush</li>
@@ -81,9 +81,10 @@
 </td>  
 </tr>  
 <tr align="center">  
-<td width="50%"><strong>APP DEVELOPMENT</strong></td>  
+<td width="50%"><strong>APPLICATION DEVELOPMENT</strong></td>  
 <td width="50%">
 	<img width="36px"  src="https://img.icons8.com/color/128/000000/java-coffee-cup-logo.png"/>
+	<img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
 </td>  
 </tr>  
 <tr align="center">  
